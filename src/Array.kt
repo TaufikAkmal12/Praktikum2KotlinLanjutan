@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    //Array
+//Array
     var arrA = arrayOf<Int>()
     arrA += 34
     println(arrA[0])
